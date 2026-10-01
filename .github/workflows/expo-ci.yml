@@ -23,3 +23,6 @@ jobs:
 
       - name: Check Expo Health
         run: npx expo doctor || true
+
+      - name: Run Tests
+        run: npm test
