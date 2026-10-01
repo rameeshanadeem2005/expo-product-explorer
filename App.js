@@ -7,7 +7,7 @@ const PRODUCTS = [
   { id: '3', name: 'Ergonomic Gaming Mouse', price: '$59' },
   { id: '4', name: 'Mechanical RGB Keyboard', price: '$129' },
   { id: '5', name: '4K Ultra-HD Monitor 27"', price: '$349' },
-  { id: '6', name: 'USB-C Multi-Port Hub', price: '$45' },
+  { id: '6', name: 'USB-C Multi-Hub', price: '$45' },
 ];
 
 export default function App() {
